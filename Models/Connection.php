@@ -4,10 +4,10 @@
         function __construct()
         {
             //Thong so ket noi CSDL
-            $severname ="localhost"; 
-            $username ="root";
-            $password =""; 
-            $db_name ="shopraucu";
+            $severname ="mysql5045.site4now.net"; 
+            $username ="a7d83e_forest";
+            $password ="trungto2912"; 
+            $db_name ="db_a7d83e_forest";
  
             //Tao ket noi CSDL
             $this->conn = new mysqli($severname,$username,$password,$db_name);
