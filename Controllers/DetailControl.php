@@ -42,7 +42,7 @@ class DetailControl
                 $str="";
                 foreach($data_binhluan as $row) { 
                     $str.= "<div class='count-bl media border p-3'>
-                                <img src='public/images/user.PNG'  class='mr-3 mt-3 rounded-circle'  style='width:50px'>
+                                <img src='public/images/user.png'  class='mr-3 mt-3 rounded-circle'  style='width:50px'>
                                 <div class='media-body' style='margin-top:20px'>
                                     <b>". $row['NguoiDD'] ."</b> <small><i>".$row['NgayDang']."</i></small>
                                     <p>". $row['DanhGia']."</p>                                           
@@ -63,7 +63,7 @@ class DetailControl
         $str="";
         foreach($data_binhluan as $row) { 
             $str.= "<div class='count-bl media border p-3'>
-                        <img src='public/images/user.PNG'  class='mr-3 mt-3 rounded-circle'  style='width:50px'>
+                        <img src='public/images/user.png'  class='mr-3 mt-3 rounded-circle'  style='width:50px'>
                         <div class='media-body' style='margin-top:20px'>
                             <b>". $row['NguoiDD'] ."</b> <small><i>".$row['NgayDang']."</i></small>
                             <p>". $row['DanhGia']."</p>                                           
