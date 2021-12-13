@@ -94,3 +94,4 @@ class Model
         return $this->conn->query($query)->fetch_assoc();
     }
 }
+?>
