@@ -4,13 +4,13 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <!-- Required meta tags -->
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="shortcut icon" href="../public/images/icon.PNG" type="image/x-icon">
-        <!-- Bootstrap CSS -->
-      
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	  <!-- Favicon -->
+	    <link rel="shortcut icon" href="public/images/icon.PNG" type="image/x-icon">
+	  <!-- Box icons -->
+	    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Quản lý</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
