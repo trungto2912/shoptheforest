@@ -167,7 +167,7 @@
                                 <li class="nav-item dropdown ">
                                     <a class="nav-link dropdown-toggle" type="button" href="#" id="userDropdown" data-toggle="dropdown">
                                         <span class="mr-2 d-none d-lg-inline text-gray-600 small"><?=$_SESSION['login']['Ho']?> <?= $_SESSION['login']['Ten'] ?></span>
-                                        <img class="img-profile rounded-circle" src="../public/images/user.PNG">
+                                        <img class="img-profile rounded-circle" src="../public/images/user.png">
                                     </a>
                                     
                                     <div class="dropdown-menu">
