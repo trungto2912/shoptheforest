@@ -7,7 +7,7 @@
         <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	  <!-- Favicon -->
-	    <link rel="shortcut icon" href="public/images/icon.PNG" type="image/x-icon">
+	    <link rel="shortcut icon" href="../public/images/icon.PNG" type="image/x-icon">
 	  <!-- Box icons -->
 	    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" />
 	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
