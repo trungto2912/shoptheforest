@@ -7,7 +7,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="shortcut icon" href="public/images/icon.PNG" type="image/x-icon">
+        <link rel="shortcut icon" href="../public/images/icon.PNG" type="image/x-icon">
         <!-- Bootstrap CSS -->
       
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
