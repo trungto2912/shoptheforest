@@ -8,7 +8,7 @@ class AccountControl
         $this->account_model = new Account();
     }
     function list()
-    {    //if(isset($_SESSION['isLogin_Admin'])){
+    {    if(isset($_SESSION['isLogin_Admin'])){
 
             $page = isset($_GET['page']) ? $_GET['page'] : 1;
             $limit = 6;
@@ -26,10 +26,10 @@ class AccountControl
         
              require_once('MVC/Views/index.php');  
 
-       // } else{
-          //  header('Location: ../?act=account&xuly=login');
+        } else{
+           header('Location: ../?act=account&xuly=login');
 
-      //  }
+       }
         
      
     }
